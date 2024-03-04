@@ -45,3 +45,4 @@ app.*.map.json
 
 
 ios/Runner/GoogleService-Info.
+macos/Runner/GoogleService-Info.plist
